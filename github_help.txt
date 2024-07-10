@@ -1,0 +1,13 @@
+git add 我们新增的文件
+添加备注
+
+上传流程
+git pull origin master
+git push -u origin master
+git push -u origin main
+
+git commit -m “github git help” 
+git push origin main
+
+git remote add origin GNSS_Study.git
+git push -u origin master
